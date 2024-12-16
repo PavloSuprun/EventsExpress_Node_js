@@ -1,2 +1,2 @@
 # EventsExpress_Node_js
-EventsExpress project Node.js part
+EventsExpress project Node.js part.
